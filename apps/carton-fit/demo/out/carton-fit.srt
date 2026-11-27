@@ -1,0 +1,79 @@
+1
+00:00:03,307 --> 00:00:06,350
+In holiday peak, packers grab the biggest box
+
+2
+00:00:06,350 --> 00:00:08,717
+on the rack and ship expensive air.
+
+3
+00:00:09,167 --> 00:00:11,753
+Carton Fit puts the smallest safe carton
+
+4
+00:00:11,753 --> 00:00:13,887
+on the bench under one warm lamp.
+
+5
+00:00:16,673 --> 00:00:19,813
+Switch to the Fragile lens to see twenty-millimetre
+
+6
+00:00:19,813 --> 00:00:23,383
+amber cushion clearances with nothing stacked above glass.
+
+7
+00:00:23,833 --> 00:00:27,367
+Switch to Stack load to inspect vertical weight
+
+8
+00:00:27,367 --> 00:00:29,923
+pressure on every item in the box.
+
+9
+00:00:38,391 --> 00:00:41,448
+The Today panel surfaces orders that need a
+
+10
+00:00:41,448 --> 00:00:45,501
+two-carton split, blocked unverified SKUs, and low stock.
+
+11
+00:00:45,951 --> 00:00:51,861
+Selecting the split order loads both proposed cartons and their combined billable weight.
+
+12
+00:00:52,670 --> 00:00:56,059
+Switching View as between Packer and Engineer shifts
+
+13
+00:00:56,059 --> 00:01:00,100
+the bench from one-click confirmation to engineering controls.
+
+14
+00:01:12,230 --> 00:01:15,645
+At the Weigh-in bench, a scale reading more than five
+
+15
+00:01:15,645 --> 00:01:19,060
+percent off expected weight flags the SKU for review.
+
+16
+00:01:19,510 --> 00:01:24,790
+The packaging engineer verifies dimensions in one click so the order unblocks immediately.
+
+17
+00:01:25,598 --> 00:01:28,681
+Air bill tracks billed dimensional weight against actual
+
+18
+00:01:28,681 --> 00:01:31,378
+weight each day and prices every packer override.
+
+19
+00:01:31,828 --> 00:01:34,569
+Carton Fit runs on Microsoft Fabric Apps so
+
+20
+00:01:34,569 --> 00:01:37,438
+every bench shares one honest carton library.
